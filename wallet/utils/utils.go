@@ -1,8 +1,7 @@
 package utils
 import (
 	"io"
-	"crypto/rand"
-
+	"crypto/rand"	
 )
 
 type UUID []byte
